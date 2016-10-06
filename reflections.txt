@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I learn new tags, because normally I’m used to abuse the classes and css in general.
+The all process is not new to me, from a concept, normally on paper or on pdf, to a webpage, so it was easy, and (for now) I didn’t have any difficulties.
